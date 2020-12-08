@@ -2,5 +2,5 @@
 Simple Instagram Downloader
 Created By Zhirrr
 
-#Follow My Instagram
+# Follow My Instagram
 @zhirr_ajalah
